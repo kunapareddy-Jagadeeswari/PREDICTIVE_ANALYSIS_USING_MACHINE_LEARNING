@@ -17,5 +17,4 @@
 
 *OUTPUT-2:*
 
-*OUTPUT-3:*
 
